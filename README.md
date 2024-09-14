@@ -1,1 +1,1 @@
-placeholder
+This is a website showcasing several recipes. This project involves the use of several basic HTML skills, such as links, images, and lists, as well as using GIT to manage and update the project. 
